@@ -1,2 +1,5 @@
-# PROGRAMADAS
-Desenvolvi um projeto no qual fiz uma planilha de requisições Programadas para automatizar e gerenciar tarefas de forma prática e eficiente, aprimorando o fluxo de trabalho.
+## Este projeto foi desenvolvido utilizando scripts personalizados e fórmulas no Google Sheets para melhorar a produtividade, eficiência e agilidade na gestão de requisições de nossa fábrica.
+## A planilha automatizada foi projetada para organizar e facilitar o fluxo de trabalho relacionado às manutenções corretivas e preventivas, garantindo que os processos ocorram de forma mais prática e estruturada. 
+## Funcionalidades - Automação do Processo de Requisições Uma planilha automatiza todo o fluxo de organização e separação de requisições, reduzindo o tempo gasto com tarefas manuais e minimizando erros.
+## Envio de Notificações por E-mail - Assim que uma requisição for separada, o aprovador recebe automaticamente um e-mail com todas as informações relevantes. Dessa forma, ele pode informar o solicitante para fazer a retirada do material requisitado.
+## Benefícios - **Ganho de Tempo** Processos que antes eram manuais e demorados agora são realizados automaticamente, liberando tempo para focar em outras atividades.
